@@ -23,10 +23,14 @@
 
 题目|答案|备注
 :--:|:--:|:--:
-清除浮动方法| [清除浮动解决方案](http://www.w3cplus.com/solution/clearfloat/clearfloat.html)
+清除浮动方法| [清除浮动解决方案](http://www.w3cplus.com/solution/clearfloat/clearfloat.html)|还可以添加一个`br`空元素
  两栏布局，左边固定，右面自适应|[左边固定，右边自适应布局(四种方法：负边距、flex)](https://segmentfault.com/a/1190000010415257)|还有grid方法
 三栏布局，左右固定，中间自适应 |[CSS三栏布局——中间固定两边自适应宽度](http://www.w3cplus.com/blog/104.html)|别忘grid
-垂直水平居中 |[]()
+垂直水平居中 |[CSS居中完整指南](https://www.w3cplus.com/css/centering-css-complete-guide.html)
+隐藏元素方法|[CSS“隐藏”元素的几种方法的对比](http://www.imooc.com/article/4849)
+外边距合并|[前端面试必备——外边距合并](http://blog.csdn.net/owen1190/article/details/75016205)
+盒模型|[盒子模型 MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+
 
 ## JavaScript
 
@@ -37,6 +41,8 @@
  new操作符作用及构造new函数 | [javascript中，new操作符的工作原理是什么?](https://www.zhihu.com/question/36440948)|参考何幻和鲁小夫的答案
 `prototype` `__proto__` `constructor` | [知乎中苏墨橘、doris的答案](https://www.zhihu.com/question/34183746)|尤其doris答案中的图非常经典。
 数组去重|[也谈JavaScript数组去重](https://www.toobug.net/article/array_unique_in_javascript.html)
+实现bind|[深入学习JavaScript之一：bind函数的实现](https://github.com/shhdgit/blogs/issues/1)
+事件监听函数，支持匿名函数|[javascript支持匿名函数的事件监听封装](http://www.111cn.net/wy/js-ajax/55335.htm)
 
 ## HTTP
 
@@ -47,20 +53,25 @@ HTTP状态码？ |[HTTP状态码](http://www.cnblogs.com/starof/p/5035119.html)
 GET与POST区别| [99%的人都理解错了HTTP中GET与POST的区别](https://zhuanlan.zhihu.com/p/22536382)
 输入url到页面加载的过程 |[最经典的前端面试题之一，你能答出什么幺蛾子？](https://zhuanlan.zhihu.com/p/28946087)
 跨域 | []()
+cookie sessionStorage localStorage|[详说 Cookie, LocalStorage 与 SessionStorage](http://jerryzou.com/posts/cookie-and-web-storage/)
+cookie seesion|[COOKIE和SESSION有什么区别？](https://www.zhihu.com/question/19786827)
+xss、csrf|[]()
 
 ## React/Redux
 
 题目|答案|备注
 :--:|:--:|:--:
 React生命周期 | [官方文档]()
- React setState源码 | []()
+React setState源码 | []()
 当view界面发生改变时，Redux的过程 |[看漫画，学 Redux](https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)
 在React中使用ajax，在哪个生命周期调用 |[【译】React如何抓取数据](https://zhuanlan.zhihu.com/p/28623518)
-virtual dom源码|[]()
-组件之间通信方式|[]()
+virtual dom源码|[如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
+组件之间通信方式|[React 组件间通讯](http://taobaofed.org/blog/2016/11/17/react-components-communication/)
+diff算法|[]()
 
 
 >React中的好多问题可以通过阅读《深入React技术栈》这本书
+
 
 ## 算法
 
@@ -72,6 +83,14 @@ JavaScript图遍历算法|[前端面试必备——图](http://blog.csdn.net/owe
 
 
 ## 移动web
+
 题目|答案|备注
 :--:|:--:|:--:
 
+## NodeJS
+
+## 其他
+
+题目|答案|备注
+:--:|:--:|:--:
+性能优化|[]()
