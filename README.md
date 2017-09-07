@@ -8,6 +8,7 @@
 
 >本responsity只是为了大家面试前查缺补漏之用，请大家还是踏踏实实学习好前端面试，不要在面试前突击使用，毕竟下面答案有的很浅显，希望大家去阅读相关书籍或相关文档，深刻理解。
 
+>题目来源[牛客前端工程师300道面试题整理](https://zhuanlan.zhihu.com/p/28911400)及论坛各位同学发的面经
 
 
 ## HTML
@@ -15,8 +16,8 @@
 题目|答案|备注
 :--:|:--:|:--:
 常用meta标签 |[常用meta整理](https://segmentfault.com/a/1190000002407912)
-
-
+DOCTYPE作用|[DOCTYPE作用及用法详解](http://www.cnblogs.com/flyingzqx/archive/2009/12/16/1625427.html)
+老版本不支持html5标签怎么办|[html5shiv让IE6-IE8支持HTML5标签](http://caibaojian.com/html5shiv.html)
 
 
 ## CSS
@@ -26,11 +27,11 @@
 清除浮动方法| [清除浮动解决方案](http://www.w3cplus.com/solution/clearfloat/clearfloat.html)|还可以添加一个`br`空元素
  两栏布局，左边固定，右面自适应|[左边固定，右边自适应布局(四种方法：负边距、flex)](https://segmentfault.com/a/1190000010415257)|还有grid方法
 三栏布局，左右固定，中间自适应 |[CSS三栏布局——中间固定两边自适应宽度](http://www.w3cplus.com/blog/104.html)|别忘grid
-垂直水平居中 |[CSS居中完整指南](https://www.w3cplus.com/css/centering-css-complete-guide.html)
-隐藏元素方法|[CSS“隐藏”元素的几种方法的对比](http://www.imooc.com/article/4849)
+垂直水平居中 |[CSS居中完整指南](https://www.w3cplus.com/css/centering-css-complete-guide.html)|别忘grid
+隐藏元素方法比较|[CSS“隐藏”元素的几种方法的对比](http://www.imooc.com/article/4849)
 外边距合并|[前端面试必备——外边距合并](http://blog.csdn.net/owen1190/article/details/75016205)
 盒模型|[盒子模型 MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
-
+重排和重绘|[重排重绘，看这一篇就够了](https://juejin.im/entry/582f16fca22b9d006b7afd89)
 
 ## JavaScript
 
@@ -88,6 +89,9 @@ JavaScript图遍历算法|[前端面试必备——图](http://blog.csdn.net/owe
 :--:|:--:|:--:
 
 ## NodeJS
+
+题目|答案|备注
+:--:|:--:|:--:
 
 ## 其他
 
