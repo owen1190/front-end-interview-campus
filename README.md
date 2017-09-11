@@ -44,6 +44,8 @@ DOCTYPE作用|[DOCTYPE作用及用法详解](http://www.cnblogs.com/flyingzqx/ar
 数组去重|[也谈JavaScript数组去重](https://www.toobug.net/article/array_unique_in_javascript.html)
 实现bind|[深入学习JavaScript之一：bind函数的实现](https://github.com/shhdgit/blogs/issues/1)
 事件监听函数，支持匿名函数|[javascript支持匿名函数的事件监听封装](http://www.111cn.net/wy/js-ajax/55335.htm)
+setTimeout和setInterval为什么不在指定时间之后执行|《JavaScript高级程序设计》中第22章高级定时器
+EventLoop机制|[理解事件循环一(浅析)](https://github.com/ccforward/cc/issues/47)
 
 ## HTTP
 
@@ -62,14 +64,14 @@ xss、csrf|[]()
 
 题目|答案|备注
 :--:|:--:|:--:
-React生命周期 | [官方文档]()
-React setState源码 | []()
+React生命周期 | 《深入react技术栈》第一章中React生命周期
+React setState源码 | 《深入react技术栈》第三章中解密setState机制
 当view界面发生改变时，Redux的过程 |[看漫画，学 Redux](https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)
 在React中使用ajax，在哪个生命周期调用 |[【译】React如何抓取数据](https://zhuanlan.zhihu.com/p/28623518)
 virtual dom源码|[如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
 组件之间通信方式|[React 组件间通讯](http://taobaofed.org/blog/2016/11/17/react-components-communication/)
-diff算法|[]()
-
+diff算法|《深入react技术栈》第三章中diff算法
+JavaScript中异步操作方法|回调函数、Promises、Generator、Async/await|[阮一峰 ES6入门](http://es6.ruanyifeng.com/#README)中后三种都有讲解
 
 >React中的好多问题可以通过阅读《深入React技术栈》这本书
 
@@ -97,4 +99,4 @@ JavaScript图遍历算法|[前端面试必备——图](http://blog.csdn.net/owe
 
 题目|答案|备注
 :--:|:--:|:--:
-性能优化|[]()
+性能优化|[Web前端性能优化](https://www.w3ctech.com/topic/1767)
