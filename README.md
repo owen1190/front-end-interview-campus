@@ -18,7 +18,8 @@
 常用meta标签 |[常用meta整理](https://segmentfault.com/a/1190000002407912)
 DOCTYPE作用|[DOCTYPE作用及用法详解](http://www.cnblogs.com/flyingzqx/archive/2009/12/16/1625427.html)
 老版本不支持html5标签怎么办|[html5shiv让IE6-IE8支持HTML5标签](http://caibaojian.com/html5shiv.html)
-
+web语义化 | [如何理解 Web 语义化？](https://www.zhihu.com/question/20455165)、[语义化的HTML结构到底有什么好处？](http://www.css88.com/archives/1668)
+meta中viewport|[移动前端开发之viewport的深入理解](https://www.cnblogs.com/2050/p/3877280.html)
 
 ## CSS
 
@@ -46,19 +47,22 @@ DOCTYPE作用|[DOCTYPE作用及用法详解](http://www.cnblogs.com/flyingzqx/ar
 事件监听函数，支持匿名函数|[javascript支持匿名函数的事件监听封装](http://www.111cn.net/wy/js-ajax/55335.htm)
 setTimeout和setInterval为什么不在指定时间之后执行|《JavaScript高级程序设计》中第22章高级定时器
 EventLoop机制|[理解事件循环一(浅析)](https://github.com/ccforward/cc/issues/47)
+JavaScript中异步操作方法|回调函数、Promises、Generator、Async/await|[阮一峰 ES6入门](http://es6.ruanyifeng.com/#README)中后三种都有讲解
+defer和async区别|[defer和async的区别](https://segmentfault.com/q/1010000000640869)|文中图片很容易让人理解
 
 ## HTTP
 
 题目|答案|备注
 :--:|:--:|:--:
-浏览器缓存机制？ |[浅谈浏览器http的缓存机制](http://www.cnblogs.com/vajoy/p/5341664.html)
+浏览器缓存机制？ |[浅谈浏览器http的缓存机制](http://www.cnblogs.com/vajoy/p/5341664.html)、[浏览器缓存机制](https://www.cnblogs.com/skynet/archive/2012/11/28/2792503.html)
 HTTP状态码？ |[HTTP状态码](http://www.cnblogs.com/starof/p/5035119.html)
 GET与POST区别| [99%的人都理解错了HTTP中GET与POST的区别](https://zhuanlan.zhihu.com/p/22536382)
 输入url到页面加载的过程 |[最经典的前端面试题之一，你能答出什么幺蛾子？](https://zhuanlan.zhihu.com/p/28946087)
-跨域 | []()
+跨域 | [浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)、[跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
 cookie sessionStorage localStorage|[详说 Cookie, LocalStorage 与 SessionStorage](http://jerryzou.com/posts/cookie-and-web-storage/)
-cookie seesion|[COOKIE和SESSION有什么区别？](https://www.zhihu.com/question/19786827)
-xss、csrf|[]()
+cookie seesion|[COOKIE和SESSION有什么区别？](https://www.zhihu.com/question/19786827)、[用户登录状态 验证权限的时代变迁](https://zhuanlan.zhihu.com/p/29101305?group_id=890897262773927936)
+xss、csrf|[前端安全知多少](https://mp.weixin.qq.com/s/tgIWXcfzswcKcKcb-Dzt_g)
+HTTP2新特性|[一文读懂 HTTP/2 特性](https://tech.upyun.com/article/227/%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%20HTTP%2F2%20%E7%89%B9%E6%80%A7.html)
 
 ## React/Redux
 
@@ -71,7 +75,7 @@ React setState源码 | 《深入react技术栈》第三章中解密setState机�
 virtual dom源码|[如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
 组件之间通信方式|[React 组件间通讯](http://taobaofed.org/blog/2016/11/17/react-components-communication/)
 diff算法|《深入react技术栈》第三章中diff算法
-JavaScript中异步操作方法|回调函数、Promises、Generator、Async/await|[阮一峰 ES6入门](http://es6.ruanyifeng.com/#README)中后三种都有讲解
+
 
 >React中的好多问题可以通过阅读《深入React技术栈》这本书
 
