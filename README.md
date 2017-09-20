@@ -33,8 +33,9 @@ meta中viewport|[移动前端开发之viewport的深入理解](https://www.cnblo
 外边距合并|[前端面试必备——外边距合并](http://blog.csdn.net/owen1190/article/details/75016205)
 盒模型|[盒子模型 MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 重排和重绘|[重排重绘，看这一篇就够了](https://juejin.im/entry/582f16fca22b9d006b7afd89)
-css三角形|[]()
+css实现各种形状|[纯CSS画的基本图形（矩形、圆形、三角形、多边形、爱心、八卦等）](http://www.cnblogs.com/jscode/archive/2012/10/19/2730905.html)
 z-index层叠上下文|[关于z-index 那些你不知道的事](https://webdesign.tutsplus.com/zh-hans/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892)
+等高布局|[八种创建等高列布局](https://www.w3cplus.com/css/creaet-equal-height-columns)
 ## JavaScript
 
 题目|答案|备注
@@ -50,6 +51,8 @@ setTimeout和setInterval为什么不在指定时间之后执行|《JavaScript高
 EventLoop机制|[理解事件循环一(浅析)](https://github.com/ccforward/cc/issues/47)
 JavaScript中异步操作方法|回调函数、Promises、Generator、Async/await|[阮一峰 ES6入门](http://es6.ruanyifeng.com/#README)中后三种都有讲解
 defer和async区别|[defer和async的区别](https://segmentfault.com/q/1010000000640869)|文中图片很容易让人理解
+减速滚动到页面顶部|[常见效果实现之返回顶部(结合淡入、淡出、减速滚动)](http://www.cnblogs.com/rentj1/archive/2011/12/31/2308443.html)
+javascript中this问题|[深入理解 js this 绑定](https://segmentfault.com/a/1190000011194676?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
 ## HTTP
 
@@ -77,6 +80,7 @@ React setState源码 | 《深入react技术栈》第三章中解密setState机�
 virtual dom源码|[如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
 组件之间通信方式|[React 组件间通讯](http://taobaofed.org/blog/2016/11/17/react-components-communication/)
 diff算法|《深入react技术栈》第三章中diff算法
+Redux源码|[React小书]()
 
 
 >React中的好多问题可以通过阅读《深入React技术栈》这本书
@@ -109,5 +113,5 @@ codewars专门针对js的基础练习|[codewars](https://www.codewars.com)
 
 题目|答案|备注
 :--:|:--:|:--:
-性能优化|[Web前端性能优化](https://www.w3ctech.com/topic/1767)
+性能优化|[Web前端性能优化](https://www.w3ctech.com/topic/1767)、[Web 的现状：网页性能提升指南](https://segmentfault.com/a/1190000011213814?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 浏览器渲染原理|[浏览器的渲染原理简介](https://coolshell.cn/articles/9666.html)、[How browsers work【中文版】](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
