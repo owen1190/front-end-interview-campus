@@ -20,6 +20,7 @@ DOCTYPE作用|[DOCTYPE作用及用法详解](http://www.cnblogs.com/flyingzqx/ar
 老版本不支持html5标签怎么办|[html5shiv让IE6-IE8支持HTML5标签](http://caibaojian.com/html5shiv.html)
 web语义化 | [如何理解 Web 语义化？](https://www.zhihu.com/question/20455165)、[语义化的HTML结构到底有什么好处？](http://www.css88.com/archives/1668)
 meta中viewport|[移动前端开发之viewport的深入理解](https://www.cnblogs.com/2050/p/3877280.html)
+block 和 inline-block区别|[block，inline和inline-block概念和区别](http://www.cnblogs.com/KeithWang/p/3139517.html)
 
 ## CSS
 
@@ -36,6 +37,7 @@ meta中viewport|[移动前端开发之viewport的深入理解](https://www.cnblo
 css实现各种形状|[纯CSS画的基本图形（矩形、圆形、三角形、多边形、爱心、八卦等）](http://www.cnblogs.com/jscode/archive/2012/10/19/2730905.html)
 z-index层叠上下文|[关于z-index 那些你不知道的事](https://webdesign.tutsplus.com/zh-hans/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892)
 等高布局|[八种创建等高列布局](https://www.w3cplus.com/css/creaet-equal-height-columns)
+
 ## JavaScript
 
 题目|答案|备注
@@ -53,6 +55,7 @@ JavaScript中异步操作方法|回调函数、Promises、Generator、Async/awai
 defer和async区别|[defer和async的区别](https://segmentfault.com/q/1010000000640869)|文中图片很容易让人理解
 减速滚动到页面顶部|[常见效果实现之返回顶部(结合淡入、淡出、减速滚动)](http://www.cnblogs.com/rentj1/archive/2011/12/31/2308443.html)
 javascript中this问题|[深入理解 js this 绑定](https://segmentfault.com/a/1190000011194676?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+promise源码|[es6 promise源码实现](https://segmentfault.com/a/1190000006103601)
 
 ## HTTP
 
@@ -80,7 +83,7 @@ React setState源码 | 《深入react技术栈》第三章中解密setState机�
 virtual dom源码|[如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
 组件之间通信方式|[React 组件间通讯](http://taobaofed.org/blog/2016/11/17/react-components-communication/)
 diff算法|《深入react技术栈》第三章中diff算法
-Redux源码|[React小书]()
+Redux源码|[React小书](http://huziketang.com/books/react/lesson30)
 
 
 >React中的好多问题可以通过阅读《深入React技术栈》这本书
