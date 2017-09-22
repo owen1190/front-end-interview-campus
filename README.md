@@ -55,8 +55,7 @@ JavaScript中异步操作方法|回调函数、Promises、Generator、Async/awai
 defer和async区别|[defer和async的区别](https://segmentfault.com/q/1010000000640869)|文中图片很容易让人理解
 减速滚动到页面顶部|[常见效果实现之返回顶部(结合淡入、淡出、减速滚动)](http://www.cnblogs.com/rentj1/archive/2011/12/31/2308443.html)
 javascript中this问题|[深入理解 js this 绑定](https://segmentfault.com/a/1190000011194676?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
-promise源码|[es6 promise源码实现](https://segmentfault.com/a/1190000006103601)
-
+promise源码|[es6 promise源码实现](https://segmentfault.com/a/119000000610360
 ## HTTP
 
 题目|答案|备注
