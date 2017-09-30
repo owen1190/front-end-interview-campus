@@ -55,7 +55,9 @@ JavaScript中异步操作方法|回调函数、Promises、Generator、Async/awai
 defer和async区别|[defer和async的区别](https://segmentfault.com/q/1010000000640869)|文中图片很容易让人理解
 减速滚动到页面顶部|[常见效果实现之返回顶部(结合淡入、淡出、减速滚动)](http://www.cnblogs.com/rentj1/archive/2011/12/31/2308443.html)
 javascript中this问题|[深入理解 js this 绑定](https://segmentfault.com/a/1190000011194676?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
-promise源码|[es6 promise源码实现](https://segmentfault.com/a/119000000610360
+promise源码|[es6 promise源码实现](https://segmentfault.com/a/119000000610360)
+call,apply,bind的区别|[call, apply, bind 函数能干啥？如何在日常搬砖中使用(zhuang b)？（全）](https://segmentfault.com/a/1190000011389726)
+
 ## HTTP
 
 题目|答案|备注
@@ -63,7 +65,6 @@ promise源码|[es6 promise源码实现](https://segmentfault.com/a/1190000006103
 浏览器缓存机制？ |[浅谈浏览器http的缓存机制](http://www.cnblogs.com/vajoy/p/5341664.html)、[浏览器缓存机制](https://www.cnblogs.com/skynet/archive/2012/11/28/2792503.html)
 HTTP状态码？ |[HTTP状态码](http://www.cnblogs.com/starof/p/5035119.html)
 GET与POST区别| [99%的人都理解错了HTTP中GET与POST的区别](https://zhuanlan.zhihu.com/p/22536382)
-输入url到页面加载的过程 |[最经典的前端面试题之一，你能答出什么幺蛾子？](https://zhuanlan.zhihu.com/p/28946087)
 跨域 | [浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)、[跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)、[前端常见跨域解决方案（全）](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650212085&idx=1&sn=07abf81aade39a7684c813cb9c31df7b&chksm=befe06d489898fc20124e9623f33db6b28f5c7a3659e6ffd9ffc99308ba8fb0fa33fb5b04e9f&mpshare=1&scene=1&srcid=0916D9blfb6UjdC4KyjI7Puw#rd)
 cookie sessionStorage localStorage|[详说 Cookie, LocalStorage 与 SessionStorage](http://jerryzou.com/posts/cookie-and-web-storage/)
 cookie seesion|[COOKIE和SESSION有什么区别？](https://www.zhihu.com/question/19786827)、[用户登录状态 验证权限的时代变迁](https://zhuanlan.zhihu.com/p/29101305?group_id=890897262773927936)
@@ -104,7 +105,7 @@ codewars专门针对js的基础练习|[codewars](https://www.codewars.com)
 题目|答案|备注
 :--:|:--:|:--:
 移动端适配方案|[移动端适配方案(上)](https://github.com/riskers/blog/issues/17)、[移动端适配方案(下)](https://github.com/riskers/blog/issues/18)
-
+|[移动web开发问题和优化小结](https://segmentfault.com/a/1190000011338800)
 ## NodeJS
 
 题目|答案|备注
@@ -117,3 +118,4 @@ codewars专门针对js的基础练习|[codewars](https://www.codewars.com)
 :--:|:--:|:--:
 性能优化|[Web前端性能优化](https://www.w3ctech.com/topic/1767)、[Web 的现状：网页性能提升指南](https://segmentfault.com/a/1190000011213814?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 浏览器渲染原理|[浏览器的渲染原理简介](https://coolshell.cn/articles/9666.html)、[How browsers work【中文版】](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
+输入url到页面加载的过程 |[最经典的前端面试题之一，你能答出什么幺蛾子？](https://zhuanlan.zhihu.com/p/28946087)
